@@ -1,9 +1,25 @@
-📊 Toyota Dashboard Project
+# 📊 Toyota Car Sales Dashboard (Excel)
 
-This project contains an Excel dashboard based on Toyota car data.
+## Project Overview
+This project analyzes Toyota car sales data using Microsoft Excel. An interactive dashboard was created to visualize sales performance and business insights.
 
-I have uploaded my dashboard file to GitHub.
-Due to file size limitations, GitHub cannot preview the file directly.
-However, the file can be downloaded and used easily for analysis.
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
 
-Thank you!
+## Dashboard Features
+- Total Sales
+- Sales by Model
+- Sales by Region
+- Monthly Sales Trend
+- Interactive Filters (Slicers)
+
+## Files
+- toyota_car_sales_report_Dashboard.xlsm
+- dashboard.png
+
+## Author
+Balasubramani
